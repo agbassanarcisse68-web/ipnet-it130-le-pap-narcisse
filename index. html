@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Mon premier site - IT 130</title>
+<style>
+body { font-family: Arial; text-align: center; background: #f0f4ff; padding: 40px; }
+h1 { color: #1e3a8a; }
+.box { background: white; padding: 20px; border-radius: 15px; max-width: 500px; margin: auto; }
+</style>
+</head>
+<body>
+<div class="box">
+<h1>Bonjour, moi c'est Narcisse 👋</h1>
+<p>Bienvenue sur mon premier dépôt en IT 130</p>
+<p><b>Filière :</b> Cyber sécurité</p>
+<p><b>Projet :</b> Mon premier site web avec GitHub</p>
+<p>Merci d'avoir visité ma page !</p>
+</div>
+</body>
+</html>
